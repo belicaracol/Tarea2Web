@@ -1,0 +1,18 @@
+#formulario {
+  padding: 10px 10px 10px 10px;
+  background: url(https://biacon.net/wp-content/uploads/2019/02/registration-form-background-images-7.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.alertaTotal {
+  width: 60%;
+  position: relative;
+  left: 130px;
+  color: red;
+  margin-bottom: 40px;
+}
+
+#mensaje {
+  display: none;
+}
